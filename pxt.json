@@ -1,0 +1,23 @@
+{
+    "name": "Huskeylens Line Tracking",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "mbitbot": "github:icshopmgr/mbitbot#0c2b634dd2fa59f421ac565e5a46f91161fcb37e",
+        "Huskylens": "github:dfrobot/pxt-dfrobot_huskylens#v2.0.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
